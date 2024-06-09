@@ -8,19 +8,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Security"
+workgroup: "Secure Patterns for Internet CrEdentials"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Secure Patterns for Internet CrEdentials"
+  type: "Working Group"
+  mail: "spice@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/spice/"
+  github: "OR13/draft-steele-spice-cta"
+  latest: "https://OR13.github.io/draft-steele-spice-cta/draft-steele-spice-cta.html"
 
 author:
  -
